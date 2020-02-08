@@ -1,0 +1,19 @@
+{
+  "name": "packet-wrapper",
+  "version": "0.1.0",
+  "description": "Read / encode packet for buffer stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maichong/packet-wrapper.git"
+  },
+  "author": "Liang <liang@maichong.it> (https://github.com/liangxingchen)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maichong/packet-wrapper/issues"
+  },
+  "homepage": "https://github.com/maichong/packet-wrapper#readme"
+}
